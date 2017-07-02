@@ -1,0 +1,9 @@
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\bin\Debug\netcoreapp1.1\Project_X_VS_2.deps.json
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\bin\Debug\netcoreapp1.1\Project_X_VS_2.runtimeconfig.json
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\bin\Debug\netcoreapp1.1\Project_X_VS_2.runtimeconfig.dev.json
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\bin\Debug\netcoreapp1.1\Project_X_VS_2.dll
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\bin\Debug\netcoreapp1.1\Project_X_VS_2.pdb
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\obj\Debug\netcoreapp1.1\Project_X_VS_2.csprojResolveAssemblyReference.cache
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\obj\Debug\netcoreapp1.1\Project_X_VS_2.AssemblyInfo.cs
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\obj\Debug\netcoreapp1.1\Project_X_VS_2.dll
+C:\Users\nerfs\Desktop\Github\Project_X_VS_2\Project_X_VS_2\Project_X_VS_2\obj\Debug\netcoreapp1.1\Project_X_VS_2.pdb
